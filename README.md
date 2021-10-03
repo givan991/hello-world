@@ -1,2 +1,3 @@
 # hello-world
-First repository
+
+Testing the branches and enjoying the guide :)
